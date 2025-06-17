@@ -1,5 +1,3 @@
-# static-html-template
-
-Use this template to create static HTML websites and deploy them on Render.
+link in bio with links to my socials
 
 Some rights reserved — see [LICENSE.txt](LICENSE.txt)
